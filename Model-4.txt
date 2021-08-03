@@ -1,0 +1,31 @@
+1.Tell me about ur self?
+2. How do you differentiate between a server hang and server crash issue?
+3. What can be the various reasons for a server crash?
+4. How do you troubleshoot a crash?
+5. Ho do you troubleshoot Server Hang?
+6. What can be the reasons of Server hang?
+7. What is memory leak?
+8. What are the various causes for OUT OF MEMORY and How to troubleshoot and overcome such issues?
+9. When does High CPU Usage occur?
+10. How to troubleshoot it?
+11. What is Clustering and what is achieved through it?
+12. How does Cluster Communication Happen?
+13. What is the difference between the Sun JVM and BEA JRockit JVM?
+14. What is HTTP tunneling? How can we configure it on Weblogic?
+15. What is the difference between T3 and HTTP protocol?
+16. How you instll weblogic?
+17.how will u install in scilent mode?why we require ?what u give in silent.xml file?
+18.Which proxy server you are using?
+19.What are the importent files in iplanet?
+20.where will you give application servers information in iplanet?
+21.what and all things server.xml have?
+22.where you configure site minder?
+23.Tell me your application architecture?
+24.why we require SSL in Application server while we are having web server?
+25.how you trouble shoot if you get any issue?
+26.how will you get issues?
+27.What is thread dump & heap dump?
+28.How will you analize thread dump?
+29.what is queue & topic?
+30.who will create Incident and problem managent 
+31.CPU utilization is more for one process in this case how will you trouble shoot
